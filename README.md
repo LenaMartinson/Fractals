@@ -1,4 +1,5 @@
 # Fractals
 Program to create beautiful fractals
 
-Qt project
+Qt project.
+Program can zoom in fractals.
